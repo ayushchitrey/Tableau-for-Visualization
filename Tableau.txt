@@ -1,0 +1,15 @@
+Text Tables and Highlight Tables - Attention to detail (Financial Domain)
+
+Comparitive Analysis - 
+	(Categorical Comparison) - Bar Charts, Dot Plots, Circle Views, Bubble Charts, Heat Map
+	Comparing Measures (actual vs. target) - Side by Side Bars, Dual Axis, Combined Axis/Blended Axis, Bullet Chart
+
+Composition Analysis (Part to Whole Analysis, showing the proportions) - Stacked Bars, Pie Charts, Donut Charts, Tree Maps
+
+Trend Analysis (Time series data analysis) - Line Charts and Area Charts
+
+Project Plans - Gantt Charts
+
+Correlation Analysis - Scatter Plots
+
+Distribution Analysis - Histograms, Box and Whisker Plots

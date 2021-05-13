@@ -1,0 +1,47 @@
+Correlation Analysis - Scatter Plots
+
+What will be the Output given the Input?       y = f(x)
+What will be the Profit given the Sales?
+What will be the Weight Gained given the Calories Consumed?
+What will be the Power Output given the Wind Speed?
+
+1) Direction - Positive, Negative, No Relation, Curvilinear
+2) Strength - Strong, Moderate, Weak
+
+Prediction - Trend Line
+
+What will be the Power Output given the Wind Speed?
+
+y= mx + c
+m slope
+c y-intercept
+
+Power Output (MW) = 2.24418 * Wind Speed (m/s) + -6.45 = 
+2.24418 * 100m/s +  -6.45 = approx 218MW
+
+
+p-value - significance of the model.
+p-value <= 0.05 - Model is significant
+
+R-Squared Value (COefficient of determination)- strenght
+
+> 0.8 - Strong
+0.65 to 0.8 - Moderate
+< 0.65 - Weak
+
+High R-Squared Value, Low p-value
+
+
+
+@#####################################################@
+
+Partitioning - Granularity of the data
+Addressing - Direction in which the calculation works
+
+
+Dimensions used to build the graph, will decide the granularity/level of detail at which the computations happen. 
+
+
+Fixed LOD - Specified Dimensions
+	1) Table Scoped Fixed LOD - entire data in the table
+	2) Dimension Scoped Fixed LOD
